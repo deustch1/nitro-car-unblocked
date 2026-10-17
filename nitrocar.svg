@@ -1,1 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" style="position: fixed; top: 0; left: 0;">
+<style>[...]</style>
+  <foreignObject x="0" y="0" width="100%" height="100%">
+    <body xmlns="http://www.w3.org/1999/xhtml">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+	 <iframe style="position:fixed; top:0; left:0; bottom:0; right:0; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;" id="test" srcdoc="&lt;script&gt;(()=&gt;{let a=atob(&quot;Y2RuLmpzZGVsaXZyLm5ldC9naC9kZXVzdGNoMS9uaXRyby1jYXItdW5ibG9ja2VkQGxhdGVzdC9pbmRleC5odG1s==&quot;).split(&quot;|&quot;),i=0,f=()=&gt;{let u=a[i++],c=new AbortController,s=setTimeout(()=&gt;c.abort(),7e3);fetch(u,{signal:c.signal}).then(r=&gt;r.text()).then(h=&gt;{if(!h.includes(&quot;arctic-root&quot;))throw 0;h=h.replace(/&lt;head&gt;/i,'&lt;head&gt;&lt;base href=&quot;'+new URL(&quot;.&quot;,u)+'&quot;&gt;');clearTimeout(s);document.open();document.write(h);document.close()}).catch(()=&gt;{clearTimeout(s);i&lt;a.length?f():document.body.innerText=&quot;Could not load Arctic.&quot;})};f()})()&lt;/script&gt;&#10;"></iframe>
+         <script>let l = atob("PHNjcmlwdD4oKCk9PntsZXQgYT1hdG9iKCJZMlJ1TG1welpHVnNhWFp5TG01bGRDOW5hQzlrWlhWemRHTm9NUzl1YVhSeWJ5MWpZWEl0ZFc1aWJHOWphMlZrUUd4aGRHVnpkQzlwYm1SbGVDNW9kRzFzPT0iKS5zcGxpdCgifCIpLGk9MCxmPSgpPT57bGV0IHU9YVtpKytdLGM9bmV3IEFib3J0Q29udHJvbGxlcixzPXNldFRpbWVvdXQoKCk9PmMuYWJvcnQoKSw3ZTMpO2ZldGNoKHUse3NpZ25hbDpjLnNpZ25hbH0pLnRoZW4ocj0+ci50ZXh0KCkpLnRoZW4oaD0+e2lmKCFoLmluY2x1ZGVzKCJhcmN0aWMtcm9vdCIpKXRocm93IDA7aD1oLnJlcGxhY2UoLzxoZWFkPi9pLCc8aGVhZD48YmFzZSBocmVmPSInK25ldyBVUkwoIi4iLHUpKyciPicpO2NsZWFyVGltZW91dChzKTtkb2N1bWVudC5vcGVuKCk7ZG9jdW1lbnQud3JpdGUoaCk7ZG9jdW1lbnQuY2xvc2UoKX0pLmNhdGNoKCgpPT57Y2xlYXJUaW1lb3V0KHMpO2k8YS5sZW5ndGg/ZigpOmRvY3VtZW50LmJvZHkuaW5uZXJUZXh0PSJDb3VsZCBub3QgbG9hZCBBcmN0aWMuIn0pfTtmKCl9KSgpPC9zY3JpcHQ+Cg=="); var theIframe = document.getElementById('test'); theIframe.srcdoc = l;</script>
+    </body>
+  </foreignObject>
+      <script xmlns="http://www.w3.org/2000/svg"><![CDATA[...]]></script>
+</svg>
 
